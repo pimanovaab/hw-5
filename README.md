@@ -5,4 +5,4 @@
 ![Корпус хл](https://github.com/pimanovaab/hw-5/blob/master/%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81.png)
 
 ## ПДФ ОТЧЕТ 
-  [HW 5 ОТЧЕ](https://github.com/pimanovaab/hw-5/blob/master/ruscorpora_report..pdf)
+  [HW 5 ОТЧЕТ](https://github.com/pimanovaab/hw-5/blob/master/ruscorpora_report..pdf)
